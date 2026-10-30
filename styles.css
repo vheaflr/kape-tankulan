@@ -1,0 +1,42 @@
+body {
+    font-family: "Times New Roman", serif;
+    color: #333;
+    background-color: #f8f8f8;
+}
+
+h1, h2 {
+    color: #0d330e;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tagline {
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.note {
+    font-style: italic;
+    color: #555;
+    margin: 10px 0;
+}
+
+.intro {
+    text-align: center;
+    margin: 20px;
+}
+
+#best-sellers {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
